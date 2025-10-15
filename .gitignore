@@ -1,1 +1,11 @@
 .idea
+node_modules
+.husky
+
+
+*.json
+eslint.config.mjs
+.prettierrc
+.prettierignore
+
+.DS_Store
